@@ -1,4 +1,6 @@
-# AI GRC Compliance Intelligence Workbench (OmniCare Digital)
+# OmniCare AI GRC Intelligence Platform
+
+### Enterprise Healthcare Compliance • ServiceNow • AI • Power BI • FastAPI • Streamlit
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-blue)
