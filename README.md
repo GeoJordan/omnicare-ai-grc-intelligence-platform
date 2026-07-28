@@ -1,28 +1,32 @@
 # OmniCare AI GRC Intelligence Platform
 
-### Enterprise Healthcare Compliance • ServiceNow • AI • Power BI • FastAPI • Streamlit
+### Enterprise Healthcare Compliance • ServiceNow • AI • FastAPI • Streamlit • Power BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
-![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-blue)
-![NIST 800-53](https://img.shields.io/badge/NIST_800--53-Control_Mapping-green)
-![SOC 2](https://img.shields.io/badge/SOC_2-Audit_Readiness-orange)
-![Cybersecurity GRC](https://img.shields.io/badge/Cybersecurity-GRC-red)
-
-**Portfolio Disclaimer**
-
-This is a simulated enterprise-style healthcare cybersecurity GRC project developed for educational and professional portfolio demonstration purposes. All organizations, assets, infrastructure components, vulnerabilities, and compliance data represented in this project are fictional.
+![ServiceNow](https://img.shields.io/badge/ServiceNow-SDK-success)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)
+![HIPAA](https://img.shields.io/badge/HIPAA-Healthcare-blue)
+![NIST 800-53](https://img.shields.io/badge/NIST_800--53-Compliance-success)
+![SOC 2](https://img.shields.io/badge/SOC_2-Audit_Readiness-red)
 
 ---
 
-## 📊 Dashboard Preview
+## Enterprise AI-Powered Healthcare Governance, Risk & Compliance Platform
 
-### Global Compliance Posture
+OmniCare AI GRC Intelligence Platform is an enterprise-style cybersecurity Governance, Risk, and Compliance (GRC) platform designed for a fictional cloud-native healthcare organization.
 
-![Global Dashboard View](images/omnicare_grc_workbench_v1.png)
+The platform demonstrates how **ServiceNow**, **FastAPI**, **Gemini AI**, **Power BI**, **Streamlit**, and **Python** can be integrated to transform technical security telemetry into continuous compliance monitoring, AI-assisted regulatory analysis, executive reporting, and audit readiness.
 
-### Non-Compliant Risk Drill-Down
+Unlike traditional GRC demonstrations focused on static spreadsheets or isolated dashboards, this platform simulates an end-to-end healthcare compliance ecosystem—from Windows endpoint telemetry and regulatory control mapping through ServiceNow data modeling, AI-assisted compliance intelligence, and executive dashboards.
 
-![Risk Drill-Down View](images/omnicare_grc_workbench_v2.png)
+---
+
+> **Portfolio Disclaimer**
+>
+> This project is a simulated enterprise healthcare environment created for portfolio and educational purposes.
+> All organizations, infrastructure, compliance records, risks, and datasets are fictional and do not represent real healthcare systems.
 
 ---
 
