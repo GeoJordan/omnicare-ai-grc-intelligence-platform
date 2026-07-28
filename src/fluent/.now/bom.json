@@ -1,0 +1,34 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "serialNumber": "urn:uuid:cd867bee-1c85-4255-b17f-ab27042d95f6",
+  "metadata": {
+    "timestamp": "2026-07-28T03:13:46.155Z",
+    "tools": {
+      "components": [
+        {
+          "type": "library",
+          "name": "sdk-build-plugins",
+          "group": "@servicenow",
+          "version": "0.0.1",
+          "author": "ServiceNow"
+        }
+      ]
+    },
+    "component": {
+      "type": "application",
+      "name": "omnicare-grc-workbench",
+      "version": "1.0.0",
+      "bom-ref": "pkg:servicenow/omnicare-grc-workbench@1.0.0?sys_scope_id=2c1dcf4183a1031036875e20ceaad357",
+      "purl": "pkg:servicenow/omnicare-grc-workbench@1.0.0?sys_scope_id=2c1dcf4183a1031036875e20ceaad357"
+    }
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:servicenow/omnicare-grc-workbench@1.0.0?sys_scope_id=2c1dcf4183a1031036875e20ceaad357"
+    }
+  ]
+}

@@ -19,3 +19,4 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.log
+.env

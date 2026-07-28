@@ -1,0 +1,7 @@
+{
+  "name": "omnicare-grc-workbench",
+  "version": "1.0.0",
+  "dependencies": {
+    "@servicenow/sdk": "latest"
+  }
+}
