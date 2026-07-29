@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<database>
+  <element name="x_2089324_omnicare_authority_document" type="collection" label="Authority Document" is_extendable="false" text_index="false" read_only="false" audit="false" display="name" access="public" caller_access="0" ws_access="false" read_access="true" alter_access="false" create_access="false" update_access="false" delete_access="false" actions_access="false" client_scripts_access="false" scriptable_table="false" attributes="">
+    <element name="name" type="string" active="true" array="false" audit="false" unique="false" label="Name" max_length="100" mandatory="true" read_only="false" choice="0" display="true" function_field="false" attributes="" spell_check="false" xml_view="false" table_reference="false" text_index="false" element_reference="false" primary="false"/>
+    <element name="framework_id" type="string" active="true" array="false" audit="false" unique="false" label="Framework ID" max_length="50" mandatory="true" read_only="false" choice="0" display="false" function_field="false" attributes="" spell_check="false" xml_view="false" table_reference="false" text_index="false" element_reference="false" primary="false"/>
+    <element name="description" type="string" active="true" array="false" audit="false" unique="false" label="Description" max_length="1000" mandatory="false" read_only="false" choice="0" display="false" function_field="false" attributes="" spell_check="false" xml_view="false" table_reference="false" text_index="false" element_reference="false" primary="false"/>
+  </element>
+</database>
